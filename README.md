@@ -1,6 +1,6 @@
-# Fraudulous Credit Card Detection
+# Fraudulent Credit Card Detection
 
-The purpose of this Machine Learning application is to clasify a set of Credit Card Transactions between `Normal` and `Fraudulous` on a highly imbalanced dataset ($0.17%$ `Fraudulous` transactions) by using unsupervised models designed for Outlier Detection.
+The purpose of this Machine Learning application is to clasify a set of Credit Card Transactions between `Normal` and `Fraudulent` on a highly imbalanced dataset ($0.17%$ `Fraudulent` transactions) by using unsupervised models designed for Outlier Detection.
 
 ## Application Structure
 1. Data Analysys and Preprocessing:
